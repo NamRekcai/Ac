@@ -1,0 +1,5 @@
+﻿  3.3 函数重载.cpp
+  3.3.2 函数重载注意事项.cpp
+E:\VS_Project\Day_8\3.3.2 函数重载注意事项.cpp(19,2): error C3861: “func”: 找不到标识符
+E:\VS_Project\Day_8\3.3.2 函数重载注意事项.cpp(21,2): error C3861: “func”: 找不到标识符
+  正在生成代码...
