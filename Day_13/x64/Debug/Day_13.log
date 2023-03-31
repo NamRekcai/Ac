@@ -1,0 +1,3 @@
+﻿  4.7.2 多态案例一-计算器类.cpp
+E:\VS_Project\Day_13\4.7.2 多态案例一-计算器类.cpp(17): warning C4715: “Calculator::getResult”: 不是所有的控件路径都返回值
+  Day_13.vcxproj -> E:\VS_Project\Day_13\x64\Debug\Day_13.exe
