@@ -1,0 +1,4 @@
+﻿  算法训练-大数据加法.cpp
+E:\VS_Project\Day_14\算法训练-大数据加法.cpp(14,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\VS_Project\Day_14\算法训练-大数据加法.cpp(15,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Day_14.vcxproj -> E:\VS_Project\Day_14\x64\Debug\Day_14.exe
